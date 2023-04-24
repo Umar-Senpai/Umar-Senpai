@@ -2,6 +2,9 @@
 <h3 align="center">An Erasmus Mundus Scholar pursuing Master's in Intelligent Field Robotic Systems (IFRoS)</h3>
 <h4 align="center">University of Girona, Spain and Eötvös Loránd University, Budapest</h4>
 
+![](https://komarev.com/ghpvc/?username=Umar-Senpai)
+
+
 - 🔭 I’m currently working as **Master's Thesis Student** at **Eurecat** on **Vision Based Reactive Navigation for Agricultural Robots**
 - 🌱 I’m currently learning about **ROS, Computer Vision and Autonomous Systems**
 - 💬 Ask me about **ROS, Python or Web Development**
