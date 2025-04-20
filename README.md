@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning about **ROS, Computer Vision and Autonomous Systems**
 - 💬 Ask me about **ROS, Python or Web Development**
 - 📫 Reach me at: **muhammadumar559@gmail.com**
-- ⚡ Fun fact: **Divine Rank in Dota 2**
+- ⚡ Fun fact: **Immortal Rank in Dota 2**
 
 <p align="left"> <a href="https://umar-senpai.github.io/asset/Umar_Resume.pdf" target="_blank" rel="noreferrer">Resume</a></p>
 
